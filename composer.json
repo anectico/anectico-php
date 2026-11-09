@@ -1,0 +1,10 @@
+{
+    "name": "anectico/sdk",
+    "description": "Reserved for the official Anectico PHP SDK; 1.0.0 is the first release.",
+    "type": "library",
+    "license": "MIT",
+    "homepage": "https://anectico.com",
+    "require": {
+        "php": ">=8.1"
+    }
+}
